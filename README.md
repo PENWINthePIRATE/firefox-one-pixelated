@@ -1,6 +1,6 @@
 # Firefox-ONE Theme with added pixelated asthetics 
 
-<li> A theme for Opera-ONE Skin Lovers with added asthetics .</li></ul>
+<li> A theme for Opera-ONE Skin Lovers with added asthetics .</li></ul><br>
 
 ![Light_dark_splash](img/front.png)
 
