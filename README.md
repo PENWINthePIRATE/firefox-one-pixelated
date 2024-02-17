@@ -4,6 +4,9 @@
 
 ![Light_dark_splash](img/front.png)
 
+<h3>please support the original work, i have mearly done much change to it. The gif used in the backgroud is not mine</h3>
+<h4>the original work --> https://github.com/Godiesc/firefox-one</h4>
+
 ## How to install?
 
 <b> Steps to configure the theme:</b>
