@@ -18,6 +18,11 @@
 </ol>
 </br>
 
+<h2>the wallpaper (included)</h2>
+
+![unable to lead the image](img/pixel.gif)
+
+
 ## Theme to go with it
 
 <a href= "https://addons.mozilla.org/en-US/firefox/addon/next-gen-gaming-rainy-night/">Next-Gen-gaming-rainy-night</a> 
@@ -92,6 +97,6 @@
 </table>   
 </ul>
 
-<h2>the wallpaper (included)</h2>
 
-![unable to lead the image](img/pixel.gif)
+
+
