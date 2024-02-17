@@ -1,19 +1,12 @@
 # Firefox-ONE Theme with added pixelated asthetics 
 
-<li>(EN) A theme for Opera-ONE Skin Lovers.</li></ul>
+<li> A theme for Opera-ONE Skin Lovers with added asthetics .</li></ul>
 
 ![Light_dark_splash](img/front.png)
 
-## ¿Cómo instalar? - How to install?
+## How to install?
 
-<b>(ES) Pasos para configurar el tema:</b>
-<ol>
-   <li>Descarga el tema desde la sección <code>Releases.</code></li>
-   <li>Descomprime el archivo y copia la carpeta 👉<code>chrome</code>👈 y el archivo 👉<code>user.js</code>👈 dentro de la carpeta de perfil de tu usuario de firefox. Para encontrar el directorio de tu perfil de usuario ve a <a href="https://github.com/Godiesc/firefox-one#example-of-aboutsupport"> about:support</a> or about:profiles.</li>
-   <li>Instala y usa un tema compatible.</li>
-   <li>Reinicia el navegador.</li></ol></br>
-
-<b>(EN) Steps to configure the theme:</b>
+<b> Steps to configure the theme:</b>
 <ol>
    <li>Download the theme from the <code>Releases</code> section.</li> 
    <li>Unzip the file and copy the 👉<code>chrome</code>👈 folder and the 👉<code>user.js</code>👈 file into your Firefox profile directory. To find out the location of your profile directory go to <a href="https://github.com/Godiesc/firefox-one#example-of-aboutsupport"> about:support</a> or about:profiles.</li>
