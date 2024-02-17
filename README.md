@@ -2,7 +2,7 @@
 
 <li> A theme for Opera-ONE Skin Lovers with added asthetics .</li></ul><br>
 
-![Light_dark_splash](img/front.png)
+![Light_dark_splash](img/main.png)
 
 <h3>please support the original work, i have mearly done much change to it. The gif used in the backgroud is not mine</h3>
 <h4>the original work --> https://github.com/Godiesc/firefox-one</h4>
