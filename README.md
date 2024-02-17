@@ -1,4 +1,4 @@
-# Firefox-ONE Theme with added pixelated asthetics 
+# Firefox-ONE Theme with added pixelated asthetics (animated)
 
 <li> A theme for Opera-ONE Skin Lovers with added asthetics .</li></ul><br>
 
