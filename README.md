@@ -2,7 +2,7 @@
 
 <li>(EN) A theme for Opera-ONE Skin Lovers.</li></ul>
 
-![Light_dark_splash](https://github.com/Godiesc/firefox-one/assets/22057609/dd708561-8227-48a9-b287-64696f8116fb)
+![Light_dark_splash](img/main)
 
 ## ¿Cómo instalar? - How to install?
 
