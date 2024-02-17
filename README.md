@@ -1,6 +1,5 @@
-# Firefox-ONE Theme for Opera One skin Lovers 
+# Firefox-ONE Theme with added pixelated asthetics 
 
-<ul><li>(ES) Tema para los amantes de la skin de Opera-ONE.</li>
 <li>(EN) A theme for Opera-ONE Skin Lovers.</li></ul>
 
 ![Light_dark_splash](https://github.com/Godiesc/firefox-one/assets/22057609/dd708561-8227-48a9-b287-64696f8116fb)
