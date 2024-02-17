@@ -127,16 +127,4 @@
 <li>MacOS (Not tested - No probado) ❌ </li>
 </ul>
 
-## Known Issues - Problemas Conocidos
-<ul>
-<li>Not compatibility for RTL(right-to-left) languages.</li>
-</ul>
 
-## Related Topic - Tema relacionado
-Available [Fiefox-GX theme](https://github.com/Godiesc/firefox-gx)
-
-![SplashPromocionalFirefoxGX](https://github.com/Godiesc/firefox-one/assets/22057609/00021921-72e9-439d-8314-920c4e6d42f1)
-
-## Example of about:support
-
-![120349392-b372f980-c2c3-11eb-904d-b088168fd849](https://user-images.githubusercontent.com/22057609/156908375-824f8679-56a5-4d09-a86f-353a7f61135e.png)
