@@ -92,39 +92,3 @@
 </table>   
 </ul>
 
-## Personalizar - Customize
-
-<b>Personalizaciones Varias - Various customizations</b>
-<ul>
-<li><p>The file <code>chrome/components/one_root-personal.css</code> contains very useful and easy to use variables, so it is easier to change:</p>
-<ul>
-<li>Wallpaper.</li>
-<li>Height of the tabs and toolbar.</li>
-<li>Width of the left-sidebar</li>
-<li>Wordmark color from the new-tab page.</li>
-<li>Hide or show the firefox logo or the search bar in the new-tab page.</li>
-</ul>
-<p>Every variable has a description on the right, so you know what to customize without breaking the file.</p></li></ul></br>
-
-<b>Fondo Nueva Pestaña - NewTab Wallpaper</b>
-<ul>
-   <li><p>(Option 1) In the directory: <code>chrome/images/newtab</code> there is a set of wallpapers, the images that the theme will select by default are: <b><i>wallpaper-light.png</i></b> and <b><i>wallpaper-dark.png</i></b>, you could rename the images you want with that names and the theme will select them, you can add your own images. If you don't want a wallpaper just delete the files with the specified names. You can find more images in: <a href="https://imgur.com/a/j78IhJN"><b>This Gallery</b></a>. <b>Restarting the browser after changing the wallpaper is required. </b></p></li>
-<li><p>(Option 2) Editing the code <code>chrome/components/one_root-personal.css</code> lines: <code>19</code> and <code>24</code>.<p></li></ul></br>
-
-<b>Color Principal - Accent Color</b>
-<ul>
-<li><p>It has manual customization of the accent color for userContent.css (new-tab, preferences and add-ons page). The file in <code>chrome/components/one_root-personal.css</code> has the variable: <code>--general-color</code> to set the color, you could choose whatever you like. <b>Restarting the browser is required. </b></p></li></ul>
-
-![Captura de pantalla 2022-06-05 155840](https://user-images.githubusercontent.com/22057609/172070426-0de79289-eaa3-4826-ac62-af6230cdf877.png)
-
-## Compatibilidad - Compatibility
-
-<ul>
-<li>Linux - Manjaro KDE (Tested - Probado) ✔ - <a href="https://imgur.com/a/Di7Db9z">Preview</a></li>
-<li>Windows 10 (Tested - Probado) ✔ - <a href="https://github.com/Godiesc/firefox-one/assets/22057609/55e39c67-7588-456a-a30b-278f1dc4bd19">Preview</a></li>
-<li>Windows 11 (Not tested - No probado) ⚠  Could work well for compatibility with windows 10. </li>
-<li>Windows 7 (Not tested - No probado) ❌ </li>
-<li>MacOS (Not tested - No probado) ❌ </li>
-</ul>
-
-
