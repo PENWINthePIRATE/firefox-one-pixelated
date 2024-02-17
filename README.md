@@ -23,8 +23,6 @@
 <a href= "https://addons.mozilla.org/en-US/firefox/addon/next-gen-gaming-rainy-night/">Next-Gen-gaming-rainy-night</a> 
 <br>
 <h3>other themes are compatable aswell, the above theme is to match the description</h3>
-   
-<p>Here a <a href="https://imgur.com/a/0ZASdRb">"Video Explanation"</a> to how switch into light and dark mode if necessary.</p>
 
 ## Important Information 💎
 <p><b>Notice:</b></p>
