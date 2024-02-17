@@ -23,7 +23,7 @@
 <h3>https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/</h3>
 
 ![unable to lead the image](img/pixel.gif)
-<h4>If you have anything to do with this and would like me to cite you a credit, please reach out. The user in the given reddit link has been suspended</h4>
+<h4>If you have anything to do with this and would like me to cite you a credit, please reach out. The user in the given reddit (source for the image) link has been suspended</h4>
 
 
 ## Theme to go with it
