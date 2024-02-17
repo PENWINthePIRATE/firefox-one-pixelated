@@ -18,9 +18,12 @@
 </ol>
 </br>
 
-<h2>the wallpaper (included)</h2>
+<h2>the wallpaper (included) (not mine!)</h2>
+<h3>here is the source</h3>
+<h3>https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/</h3>
 
 ![unable to lead the image](img/pixel.gif)
+<h4>If you have anything to do with this and would like me to cite you a credit, please reach out. The user in the given reddit link has been suspended</h4>
 
 
 ## Theme to go with it
