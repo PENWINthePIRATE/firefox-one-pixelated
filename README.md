@@ -2,7 +2,7 @@
 
 <li>(EN) A theme for Opera-ONE Skin Lovers.</li></ul>
 
-![Light_dark_splash](img/main.png)
+![Light_dark_splash](img/front.png)
 
 ## ¿Cómo instalar? - How to install?
 
