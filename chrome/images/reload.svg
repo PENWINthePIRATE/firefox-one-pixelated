@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<svg
+   viewBox="0 0 16 16"
+   width="16"
+   height="16"
+   fill="context-fill"
+   fill-opacity="context-fill-opacity"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="reload.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="4.6875"
+     inkscape:cy="8.546875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" /><path
+     id="rect1"
+     style="fill:#29d3fe;fill-opacity:1;stroke-width:1.14961"
+     d="M 3.2398885,1.6367189 V 2.9457497 H 1.919631 V 4.2794789 H 3.2511151 V 2.995147 H 8.5995046 V 4.3176496 H 9.944461 V 10.36883 h 1.347202 V 4.2974417 H 9.964669 V 2.9502402 H 8.6758461 V 1.6367189 Z M 0.567939,4.2615162 V 10.350867 H 1.8612523 V 4.2615162 Z m 5.3506349,4.7286771 v 1.3718997 h 1.3606734 v 1.33373 h 1.358428 v 1.33373 H 9.996103 v 1.333728 h 1.3719 v -1.333728 h 1.347202 v -1.33373 h 1.358428 v -1.33373 h 1.358428 V 8.9901933 h -1.3719 v 1.3337297 h -1.358429 v 1.333729 h -1.358427 v 1.333729 H 10.009576 V 11.657652 H 8.6511474 V 10.323923 H 7.2904739 V 8.9901933 Z" /></svg>
