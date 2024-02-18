@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 11 11"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="newtab.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="39.135802"
+     inkscape:cx="1.7630915"
+     inkscape:cy="4.8165616"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <rect
+     style="fill:#1ccee6;fill-opacity:1"
+     id="rect1"
+     width="1.0731862"
+     height="10.271924"
+     x="4.963407"
+     y="0.36403799" />
+  <rect
+     style="fill:#1ccee6;fill-opacity:1"
+     id="rect2"
+     width="1.0731862"
+     height="10.271924"
+     x="4.963407"
+     y="-10.635962"
+     transform="rotate(90)" />
+</svg>
