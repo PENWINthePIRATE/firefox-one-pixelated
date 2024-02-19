@@ -4,7 +4,7 @@
 
 ![Light_dark_splash](img/main.png)
 
-<h3>please support the original work, i have mearly done much change to it. The gif used in the backgroud is not mine</h3>
+<h3>please support the original work. The gif used in the backgroud is <b>not</b> mine</h3>
 <h4>the original work --> https://github.com/Godiesc/firefox-one</h4>
 
 ## How to install?
