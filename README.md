@@ -11,7 +11,7 @@
 
 <b> Steps to configure the theme:</b>
 <ol>
-   <li>Download the theme from the <code>Releases</code> section.</li> 
+   <li>Tap at the code icon and in the drop down click install zip.</li> 
    <li>Unzip the file and copy the 👉<code>chrome</code>👈 folder and the 👉<code>user.js</code>👈 file into your Firefox profile directory. To find out the location of your profile directory go to <a href="https://github.com/Godiesc/firefox-one#example-of-aboutsupport"> about:support</a> or about:profiles.</li>
    <li>Install and use a compatible theme.</li>
    <li>Restart the browser.</li>
